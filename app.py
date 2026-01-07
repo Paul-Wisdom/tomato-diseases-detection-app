@@ -47,7 +47,7 @@ def preprocess_image(image):
 
 st.set_page_config(page_title="Tomato Disease Detector", layout="wide")
 
-st.title("🍅 Tomato Leaf Disease Classifier")
+st.title("Prof. Akinola project on APPLICATION OF MACHINE LEARNING FOR DISEASE MONITORING AND MANAGEMENT IN GREENHOUSE FARMING BY ABIMBOLA AKOREDE (20201718)")
 st.markdown("Upload images of tomato leaves to detect diseases")
 
 
