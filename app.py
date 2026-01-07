@@ -61,7 +61,6 @@ with st.sidebar:
     st.header("📋 Model Info")
     st.write("**Classes:** 10 diseases")
     st.write("**Input size:** 224x224 pixels")
-    st.write("**Accuracy:** ~86% (from your training)")
 
 col1, col2 = st.columns([1, 1])
 
